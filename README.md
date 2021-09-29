@@ -1,7 +1,7 @@
 # README
 Quête Github 5
 
-REMOTE
+LOCAL
 
 allez c'est parti!
 on va essayer de faire ça rapido...
